@@ -15,7 +15,7 @@ WEATHER_API = "8e4b7fb1aac9f2b768cb6224655724b7"
 WEATHER_BASE = "http://api.weatherstack.com/current?access_key=" + WEATHER_API + "&query="
 
 points = defaultdict(int)
-TOKEN = "NTk0OTU0NjM1NzY5NTQ0NzA0.XRj8rg.XyIfOse8tGUQAjKSVDMKalrtCj0"
+TOKEN = "xxx"
 client = discord.Client()
 CHANNEL_ID = "674055860925890600"
 
